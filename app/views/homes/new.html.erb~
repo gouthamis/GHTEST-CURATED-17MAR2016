@@ -1,0 +1,7 @@
+<h1>New Report</h1>
+
+<%= render 'form' %>
+
+<%= link_to 'Back', homes_path %>
+
+
